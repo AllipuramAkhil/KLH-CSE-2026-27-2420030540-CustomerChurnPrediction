@@ -1,5 +1,0 @@
-Comparison,Candidate,Reference,Candidate errors only,Reference errors only,Discordant cases,McNemar exact p-value,PR-AUC difference (candidate-reference),PR-AUC difference 95% bootstrap CI low,PR-AUC difference 95% bootstrap CI high
-Stacking vs RF+XGB hybrid,stacking_rf_xgb_svm_lr,hybrid,19,15,34,0.6075913612730801,-0.004588598433932112,-0.010970165203535952,0.0014200407009120762
-Weighted vote vs RF+XGB hybrid,weighted_soft_voting_rf_xgb_svm,hybrid,11,11,22,1.0,0.006308831979174645,-0.0005130650772890821,0.013025356721376296
-Weighted vote vs XGBoost,weighted_soft_voting_rf_xgb_svm,xgboost,16,32,48,0.029304946720529308,0.00748367180691023,-0.0023586918281635174,0.019095055266066054
-Stacking vs Random Forest,stacking_rf_xgb_svm_lr,random_forest,26,15,41,0.11727520595741225,0.00022421277688444707,-0.004232433321786311,0.003929845697634851
