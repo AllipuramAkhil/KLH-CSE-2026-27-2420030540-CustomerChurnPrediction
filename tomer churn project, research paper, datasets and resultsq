@@ -1,0 +1,30 @@
+docs/STAGE8_RESEARCH_PAPER_DRAFT.md:3: trailing whitespace.
+[32m+[m[32m**Research paper draft — Stage 8**[m[41m  [m
+docs/STAGE8_RESEARCH_PAPER_DRAFT.md:4: trailing whitespace.
+[32m+[m[32m**Author:** [Add author name and affiliation][m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:7: trailing whitespace.
+[32m+[m[32m[1] S. M. Lundberg and S.-I. Lee, “A Unified Approach to Interpreting Model Predictions,” in *Advances in Neural Information Processing Systems 30 (NeurIPS 2017)*, 2017. [Conference paper](https://papers.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html).[m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:8: trailing whitespace.
+[32m+[m[32m**Use for:** SHAP as a framework for local feature attribution and model explanation.[m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:11: trailing whitespace.
+[32m+[m[32m[2] M. Imani, M. Joudaki, A. Beikmohammadi, and H. R. Arabnia, “Customer Churn Prediction: A Systematic Review of Recent Advances, Trends, and Challenges in Machine Learning and Deep Learning,” *Machine Learning and Knowledge Extraction*, vol. 7, no. 3, article 105, 2025. https://doi.org/10.3390/make7030105.[m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:12: trailing whitespace.
+[32m+[m[32m**Use for:** Broad literature context, prevalence of ensemble methods, imbalance, interpretability, drift, and business-aligned evaluation.[m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:15: trailing whitespace.
+[32m+[m[32m[3] “Explaining customer churn prediction in telecom industry using tabular machine learning models,” *Machine Learning with Applications*, vol. 17, article 100567, 2024. https://doi.org/10.1016/j.mlwa.2024.100567.[m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:16: trailing whitespace.
+[32m+[m[32m**Use for:** Telecom churn prediction with local/global explanations and SHAP.[m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:19: trailing whitespace.
+[32m+[m[32m[4] IBM, “Telco customer churn,” *IBM Cognos Analytics sample documentation*. [Official sample description](https://www.ibm.com/docs/en/cognos-analytics/12.1.x?topic=samples-telco-customer-churn).[m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:20: trailing whitespace.
+[32m+[m[32m**Use for:** Description of IBM's Telco churn sample data and the churn field.[m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:23: trailing whitespace.
+[32m+[m[32m[5] scikit-learn developers, “Common pitfalls and recommended practices,” scikit-learn documentation, section on data leakage. [Documentation](https://scikit-learn.org/stable/common_pitfalls.html).[m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:26: trailing whitespace.
+[32m+[m[32m[6] scikit-learn developers, “Probability calibration,” scikit-learn documentation. [Documentation](https://scikit-learn.org/stable/modules/calibration.html).[m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:29: trailing whitespace.
+[32m+[m[32m[7] scikit-learn developers, “RandomizedSearchCV,” scikit-learn documentation. [Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).[m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:32: trailing whitespace.
+[32m+[m[32m[8] “A data-driven approach with explainable artificial intelligence for customer churn prediction in the telecommunications industry,” *Results in Engineering*, vol. 26, article 104629, 2025. https://doi.org/10.1016/j.rineng.2025.104629.[m[41m  [m
+docs/VERIFIED_LITERATURE_REGISTER.md:33: trailing whitespace.
+[32m+[m[32m**Use for:** Recent explainable ensemble work in telecom churn prediction.[m[41m  [m
