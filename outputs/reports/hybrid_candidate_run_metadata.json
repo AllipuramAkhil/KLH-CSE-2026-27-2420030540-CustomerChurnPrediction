@@ -1,0 +1,17 @@
+{
+  "finished_at": "2026-10-25 07:29:49",
+  "dataset": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+  "n_train": 5634,
+  "n_test": 1409,
+  "cv_folds": 5,
+  "random_state": 42,
+  "candidates": [
+    "stacking_rf_xgb_svm_lr",
+    "weighted_soft_voting_rf_xgb_svm",
+    "chi2_feature_selection_ensemble",
+    "rf_feature_selection_ann",
+    "xgb_leaf_embedding_ann"
+  ],
+  "runtime_seconds": 73.63,
+  "note": "Candidate list reflects the merged results from the five-candidate run and the corrected stacking rerun."
+}

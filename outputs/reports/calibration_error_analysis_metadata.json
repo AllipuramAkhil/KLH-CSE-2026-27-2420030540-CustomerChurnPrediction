@@ -1,0 +1,8 @@
+{
+  "purpose": "Exploratory calibration and error analysis",
+  "holdout_rows": 1409,
+  "threshold": 0.5,
+  "metrics": "ROC-AUC, PR-AUC, Brier, log loss, 10-bin ECE, precision, recall, F1, MCC, confusion counts",
+  "caveat": "The holdout has been inspected during previous candidate comparison. Results are exploratory, not independent confirmatory evidence.",
+  "customer_ids": "Error case export contains customer IDs from the public sample dataset; treat them as row identifiers, not real-world identities."
+}

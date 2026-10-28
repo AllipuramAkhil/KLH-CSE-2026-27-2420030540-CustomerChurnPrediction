@@ -1,0 +1,351 @@
+Model,Fold,Metric,Value
+Logistic Regression,1,Accuracy,0.7559893522626442
+Logistic Regression,1,Precision,0.5262008733624454
+Logistic Regression,1,Recall,0.8060200668896321
+Logistic Regression,1,Specificity,0.7379227053140096
+Logistic Regression,1,F1,0.6367239101717305
+Logistic Regression,1,ROC-AUC,0.8456933740487615
+Logistic Regression,1,PR-AUC,0.6525831091769516
+Logistic Regression,1,MCC,0.488942934809425
+Logistic Regression,1,Cohen's Kappa,0.4649593011713321
+Logistic Regression,1,Log Loss,0.4878816862251653
+Logistic Regression,2,Accuracy,0.7293700088731144
+Logistic Regression,2,Precision,0.49336283185840707
+Logistic Regression,2,Recall,0.745819397993311
+Logistic Regression,2,Specificity,0.7234299516908212
+Logistic Regression,2,F1,0.5938748335552596
+Logistic Regression,2,ROC-AUC,0.8253901895206244
+Logistic Regression,2,PR-AUC,0.641046299405747
+Logistic Regression,2,MCC,0.42270106121768247
+Logistic Regression,2,Cohen's Kappa,0.40332175510041124
+Logistic Regression,2,Log Loss,0.5055000614743058
+Logistic Regression,3,Accuracy,0.7364685004436557
+Logistic Regression,3,Precision,0.5021645021645021
+Logistic Regression,3,Recall,0.7759197324414716
+Logistic Regression,3,Specificity,0.7222222222222222
+Logistic Regression,3,F1,0.6097240473061761
+Logistic Regression,3,ROC-AUC,0.839582020583911
+Logistic Regression,3,PR-AUC,0.674776809129178
+Logistic Regression,3,MCC,0.44716939562264435
+Logistic Regression,3,Cohen's Kappa,0.4242592079756301
+Logistic Regression,3,Log Loss,0.49580492523988445
+Logistic Regression,4,Accuracy,0.7559893522626442
+Logistic Regression,4,Precision,0.5247933884297521
+Logistic Regression,4,Recall,0.8494983277591973
+Logistic Regression,4,Specificity,0.7222222222222222
+Logistic Regression,4,F1,0.648786717752235
+Logistic Regression,4,ROC-AUC,0.8589440647569192
+Logistic Regression,4,PR-AUC,0.6689907470143183
+Logistic Regression,4,MCC,0.5099251098111074
+Logistic Regression,4,Cohen's Kappa,0.4773688089050925
+Logistic Regression,4,Log Loss,0.4901753233422414
+Logistic Regression,5,Accuracy,0.7646536412078153
+Logistic Regression,5,Precision,0.5388127853881278
+Logistic Regression,5,Recall,0.7892976588628763
+Logistic Regression,5,Specificity,0.7557436517533253
+Logistic Regression,5,F1,0.6404341926729986
+Logistic Regression,5,ROC-AUC,0.8550549392776404
+Logistic Regression,5,PR-AUC,0.6677470764120793
+Logistic Regression,5,MCC,0.4937265646745969
+Logistic Regression,5,Cohen's Kappa,0.4746081438466875
+Logistic Regression,5,Log Loss,0.47183486322749174
+Decision Tree,1,Accuracy,0.7480035492457853
+Decision Tree,1,Precision,0.5175644028103045
+Decision Tree,1,Recall,0.7391304347826086
+Decision Tree,1,Specificity,0.751207729468599
+Decision Tree,1,F1,0.6088154269972452
+Decision Tree,1,ROC-AUC,0.8216195692566203
+Decision Tree,1,PR-AUC,0.6030689375838884
+Decision Tree,1,MCC,0.4462554178902
+Decision Tree,1,Cohen's Kappa,0.43135011441647597
+Decision Tree,1,Log Loss,0.592128708269916
+Decision Tree,2,Accuracy,0.743566992014197
+Decision Tree,2,Precision,0.5112612612612613
+Decision Tree,2,Recall,0.7591973244147158
+Decision Tree,2,Specificity,0.7379227053140096
+Decision Tree,2,F1,0.6110363391655451
+Decision Tree,2,ROC-AUC,0.8148599195385585
+Decision Tree,2,PR-AUC,0.5744101785779927
+Decision Tree,2,MCC,0.4491694264530941
+Decision Tree,2,Cohen's Kappa,0.43043880464947915
+Decision Tree,2,Log Loss,0.5437258588411488
+Decision Tree,3,Accuracy,0.7568766637089619
+Decision Tree,3,Precision,0.530562347188264
+Decision Tree,3,Recall,0.725752508361204
+Decision Tree,3,Specificity,0.7681159420289855
+Decision Tree,3,F1,0.6129943502824858
+Decision Tree,3,ROC-AUC,0.8363708335352947
+Decision Tree,3,PR-AUC,0.6463674618199133
+Decision Tree,3,MCC,0.4534591499956678
+Decision Tree,3,Cohen's Kappa,0.44193199767229197
+Decision Tree,3,Log Loss,0.49369325578349077
+Decision Tree,4,Accuracy,0.7417923691215617
+Decision Tree,4,Precision,0.5083682008368201
+Decision Tree,4,Recall,0.8127090301003345
+Decision Tree,4,Specificity,0.716183574879227
+Decision Tree,4,F1,0.6254826254826255
+Decision Tree,4,ROC-AUC,0.8357649491864992
+Decision Tree,4,PR-AUC,0.6174457119123999
+Decision Tree,4,MCC,0.4724784017828827
+Decision Tree,4,Cohen's Kappa,0.443985182296744
+Decision Tree,4,Log Loss,0.5550251596465613
+Decision Tree,5,Accuracy,0.7539964476021315
+Decision Tree,5,Precision,0.5243362831858407
+Decision Tree,5,Recall,0.7926421404682275
+Decision Tree,5,Specificity,0.7400241837968561
+Decision Tree,5,F1,0.6311584553928096
+Decision Tree,5,ROC-AUC,0.8501656064349928
+Decision Tree,5,PR-AUC,0.6466056980463999
+Decision Tree,5,MCC,0.47989301022205216
+Decision Tree,5,Cohen's Kappa,0.45787287295986645
+Decision Tree,5,Log Loss,0.529939469926005
+Random Forest,1,Accuracy,0.7710736468500443
+Random Forest,1,Precision,0.5501222493887531
+Random Forest,1,Recall,0.7525083612040134
+Random Forest,1,Specificity,0.7777777777777778
+Random Forest,1,F1,0.635593220338983
+Random Forest,1,ROC-AUC,0.8404908471071041
+Random Forest,1,PR-AUC,0.6381241087757701
+Random Forest,1,MCC,0.48689707076284267
+Random Forest,1,Cohen's Kappa,0.4745199102169756
+Random Forest,1,Log Loss,0.459211471198519
+Random Forest,2,Accuracy,0.7622005323868678
+Random Forest,2,Precision,0.5402597402597402
+Random Forest,2,Recall,0.6956521739130435
+Random Forest,2,Specificity,0.7862318840579711
+Random Forest,2,F1,0.6081871345029239
+Random Forest,2,ROC-AUC,0.8317842890149129
+Random Forest,2,PR-AUC,0.6330234173413962
+Random Forest,2,MCC,0.44860179196365424
+Random Forest,2,Cohen's Kappa,0.44133412745681944
+Random Forest,2,Log Loss,0.46892823163198744
+Random Forest,3,Accuracy,0.7639751552795031
+Random Forest,3,Precision,0.5401459854014599
+Random Forest,3,Recall,0.7424749163879598
+Random Forest,3,Specificity,0.7717391304347826
+Random Forest,3,F1,0.6253521126760564
+Random Forest,3,ROC-AUC,0.8460043946811433
+Random Forest,3,PR-AUC,0.692257798349299
+Random Forest,3,MCC,0.47164721743439386
+Random Forest,3,Cohen's Kappa,0.459259873879854
+Random Forest,3,Log Loss,0.4560299729395431
+Random Forest,4,Accuracy,0.7799467613132209
+Random Forest,4,Precision,0.562962962962963
+Random Forest,4,Recall,0.7625418060200669
+Random Forest,4,Specificity,0.7862318840579711
+Random Forest,4,F1,0.6477272727272727
+Random Forest,4,ROC-AUC,0.8546018935905515
+Random Forest,4,PR-AUC,0.6674680507372861
+Random Forest,4,MCC,0.504949485384661
+Random Forest,4,Cohen's Kappa,0.492948343486606
+Random Forest,4,Log Loss,0.449236753689021
+Random Forest,5,Accuracy,0.7815275310834814
+Random Forest,5,Precision,0.5681233933161953
+Random Forest,5,Recall,0.7391304347826086
+Random Forest,5,Specificity,0.7968561064087062
+Random Forest,5,F1,0.6424418604651163
+Random Forest,5,ROC-AUC,0.8565714817226305
+Random Forest,5,PR-AUC,0.6639539839251893
+Random Forest,5,MCC,0.4977756967068116
+Random Forest,5,Cohen's Kappa,0.4889994945264967
+Random Forest,5,Log Loss,0.4381784992077551
+XGBoost,1,Accuracy,0.7577639751552795
+XGBoost,1,Precision,0.5305164319248826
+XGBoost,1,Recall,0.7558528428093646
+XGBoost,1,Specificity,0.7584541062801933
+XGBoost,1,F1,0.623448275862069
+XGBoost,1,ROC-AUC,0.8354418108671418
+XGBoost,1,PR-AUC,0.6419076717851804
+XGBoost,1,MCC,0.4682840291253173
+XGBoost,1,Cohen's Kappa,0.4528610577119718
+XGBoost,1,Log Loss,0.4816027003072171
+XGBoost,2,Accuracy,0.748890860692103
+XGBoost,2,Precision,0.518957345971564
+XGBoost,2,Recall,0.7324414715719063
+XGBoost,2,Specificity,0.7548309178743962
+XGBoost,2,F1,0.6074895977808599
+XGBoost,2,ROC-AUC,0.8230797505372175
+XGBoost,2,PR-AUC,0.618786595910222
+XGBoost,2,MCC,0.4445000171024098
+XGBoost,2,Cohen's Kappa,0.4306770127684033
+XGBoost,2,Log Loss,0.49664341478030793
+XGBoost,3,Accuracy,0.7613132209405501
+XGBoost,3,Precision,0.5340909090909091
+XGBoost,3,Recall,0.7859531772575251
+XGBoost,3,Specificity,0.7524154589371981
+XGBoost,3,F1,0.6359945872801083
+XGBoost,3,ROC-AUC,0.8426296188583523
+XGBoost,3,PR-AUC,0.6842894104272409
+XGBoost,3,MCC,0.4872207848017434
+XGBoost,3,Cohen's Kappa,0.46788583424165353
+XGBoost,3,Log Loss,0.47638361027298187
+XGBoost,4,Accuracy,0.7728482697426797
+XGBoost,4,Precision,0.5491990846681922
+XGBoost,4,Recall,0.802675585284281
+XGBoost,4,Specificity,0.7620772946859904
+XGBoost,4,F1,0.6521739130434783
+XGBoost,4,ROC-AUC,0.8576777664679366
+XGBoost,4,PR-AUC,0.672326660403511
+XGBoost,4,MCC,0.5117336231808172
+XGBoost,4,Cohen's Kappa,0.49218686746012463
+XGBoost,4,Log Loss,0.4599138163751201
+XGBoost,5,Accuracy,0.7708703374777975
+XGBoost,5,Precision,0.5501222493887531
+XGBoost,5,Recall,0.7525083612040134
+XGBoost,5,Specificity,0.777509068923821
+XGBoost,5,F1,0.635593220338983
+XGBoost,5,ROC-AUC,0.8462185519648324
+XGBoost,5,PR-AUC,0.649985331744702
+XGBoost,5,MCC,0.4866954309235183
+XGBoost,5,Cohen's Kappa,0.47431355021298305
+XGBoost,5,Log Loss,0.4605060945006177
+Support Vector Machine (RBF),1,Accuracy,0.7905944986690329
+Support Vector Machine (RBF),1,Precision,0.6039603960396039
+Support Vector Machine (RBF),1,Recall,0.6120401337792643
+Support Vector Machine (RBF),1,Specificity,0.855072463768116
+Support Vector Machine (RBF),1,F1,0.6079734219269103
+Support Vector Machine (RBF),1,ROC-AUC,0.823934047469019
+Support Vector Machine (RBF),1,PR-AUC,0.5730197487604879
+Support Vector Machine (RBF),1,MCC,0.4651439990499318
+Support Vector Machine (RBF),1,Cohen's Kappa,0.4651248843663275
+Support Vector Machine (RBF),1,Log Loss,0.4409007176076874
+Support Vector Machine (RBF),2,Accuracy,0.774622892635315
+Support Vector Machine (RBF),2,Precision,0.5728155339805825
+Support Vector Machine (RBF),2,Recall,0.5919732441471572
+Support Vector Machine (RBF),2,Specificity,0.8405797101449275
+Support Vector Machine (RBF),2,F1,0.5822368421052632
+Support Vector Machine (RBF),2,ROC-AUC,0.8093665681094794
+Support Vector Machine (RBF),2,PR-AUC,0.5791866389088878
+Support Vector Machine (RBF),2,MCC,0.428089083817545
+Support Vector Machine (RBF),2,Cohen's Kappa,0.42798051291479
+Support Vector Machine (RBF),2,Log Loss,0.4607121445488608
+Support Vector Machine (RBF),3,Accuracy,0.7870452528837621
+Support Vector Machine (RBF),3,Precision,0.5980066445182725
+Support Vector Machine (RBF),3,Recall,0.6020066889632107
+Support Vector Machine (RBF),3,Specificity,0.8538647342995169
+Support Vector Machine (RBF),3,F1,0.6
+Support Vector Machine (RBF),3,ROC-AUC,0.824895383969108
+Support Vector Machine (RBF),3,PR-AUC,0.6171534098133421
+Support Vector Machine (RBF),3,MCC,0.45490410931328124
+Support Vector Machine (RBF),3,Cohen's Kappa,0.4548994159636599
+Support Vector Machine (RBF),3,Log Loss,0.44637350218169014
+Support Vector Machine (RBF),4,Accuracy,0.7985803016858918
+Support Vector Machine (RBF),4,Precision,0.6097560975609756
+Support Vector Machine (RBF),4,Recall,0.6688963210702341
+Support Vector Machine (RBF),4,Specificity,0.8454106280193237
+Support Vector Machine (RBF),4,F1,0.6379585326953748
+Support Vector Machine (RBF),4,ROC-AUC,0.8384086245617437
+Support Vector Machine (RBF),4,PR-AUC,0.6227393599376441
+Support Vector Machine (RBF),4,MCC,0.4998766416314996
+Support Vector Machine (RBF),4,Cohen's Kappa,0.49885109258842086
+Support Vector Machine (RBF),4,Log Loss,0.42566766246815796
+Support Vector Machine (RBF),5,Accuracy,0.7992895204262878
+Support Vector Machine (RBF),5,Precision,0.6245733788395904
+Support Vector Machine (RBF),5,Recall,0.6120401337792643
+Support Vector Machine (RBF),5,Specificity,0.8669891172914147
+Support Vector Machine (RBF),5,F1,0.6182432432432432
+Support Vector Machine (RBF),5,ROC-AUC,0.8327920961851881
+Support Vector Machine (RBF),5,PR-AUC,0.6166015811992785
+Support Vector Machine (RBF),5,MCC,0.4821632121318108
+Support Vector Machine (RBF),5,Cohen's Kappa,0.4821176365242238
+Support Vector Machine (RBF),5,Log Loss,0.43843069863228706
+Artificial Neural Network (MLP),1,Accuracy,0.7941437444543035
+Artificial Neural Network (MLP),1,Precision,0.6390041493775933
+Artificial Neural Network (MLP),1,Recall,0.5150501672240803
+Artificial Neural Network (MLP),1,Specificity,0.894927536231884
+Artificial Neural Network (MLP),1,F1,0.5703703703703704
+Artificial Neural Network (MLP),1,ROC-AUC,0.8347470634805227
+Artificial Neural Network (MLP),1,PR-AUC,0.6272097090316525
+Artificial Neural Network (MLP),1,MCC,0.44145416505510626
+Artificial Neural Network (MLP),1,Cohen's Kappa,0.4370605130236703
+Artificial Neural Network (MLP),1,Log Loss,0.4280342104375536
+Artificial Neural Network (MLP),2,Accuracy,0.7852706299911268
+Artificial Neural Network (MLP),2,Precision,0.6244541484716157
+Artificial Neural Network (MLP),2,Recall,0.4782608695652174
+Artificial Neural Network (MLP),2,Specificity,0.8961352657004831
+Artificial Neural Network (MLP),2,F1,0.5416666666666666
+Artificial Neural Network (MLP),2,ROC-AUC,0.8221244728806166
+Artificial Neural Network (MLP),2,PR-AUC,0.6295388650146397
+Artificial Neural Network (MLP),2,MCC,0.41079600374940495
+Artificial Neural Network (MLP),2,Cohen's Kappa,0.40465910231950997
+Artificial Neural Network (MLP),2,Log Loss,0.44210633829011653
+Artificial Neural Network (MLP),3,Accuracy,0.808340727595386
+Artificial Neural Network (MLP),3,Precision,0.6577946768060836
+Artificial Neural Network (MLP),3,Recall,0.5785953177257525
+Artificial Neural Network (MLP),3,Specificity,0.8913043478260869
+Artificial Neural Network (MLP),3,F1,0.6156583629893239
+Artificial Neural Network (MLP),3,ROC-AUC,0.8335797263018435
+Artificial Neural Network (MLP),3,PR-AUC,0.6697794473419453
+Artificial Neural Network (MLP),3,MCC,0.490479830444959
+Artificial Neural Network (MLP),3,Cohen's Kappa,0.4886956521739131
+Artificial Neural Network (MLP),3,Log Loss,0.4301238464867229
+Artificial Neural Network (MLP),4,Accuracy,0.8092280390417036
+Artificial Neural Network (MLP),4,Precision,0.6693548387096774
+Artificial Neural Network (MLP),4,Recall,0.5551839464882943
+Artificial Neural Network (MLP),4,Specificity,0.9009661835748792
+Artificial Neural Network (MLP),4,F1,0.6069469835466179
+Artificial Neural Network (MLP),4,ROC-AUC,0.8560964083175803
+Artificial Neural Network (MLP),4,PR-AUC,0.6821282388225011
+Artificial Neural Network (MLP),4,MCC,0.48611417771933485
+Artificial Neural Network (MLP),4,Cohen's Kappa,0.4824367477278311
+Artificial Neural Network (MLP),4,Log Loss,0.40360053536307183
+Artificial Neural Network (MLP),5,Accuracy,0.8152753108348135
+Artificial Neural Network (MLP),5,Precision,0.7116279069767442
+Artificial Neural Network (MLP),5,Recall,0.5117056856187291
+Artificial Neural Network (MLP),5,Specificity,0.9250302297460702
+Artificial Neural Network (MLP),5,F1,0.5953307392996109
+Artificial Neural Network (MLP),5,ROC-AUC,0.8513990609569181
+Artificial Neural Network (MLP),5,PR-AUC,0.6671909908196452
+Artificial Neural Network (MLP),5,MCC,0.49071444061856584
+Artificial Neural Network (MLP),5,Cohen's Kappa,0.47976205813493744
+Artificial Neural Network (MLP),5,Log Loss,0.41112611066687266
+Hybrid (RF + XGBoost),1,Accuracy,0.7675244010647737
+Hybrid (RF + XGBoost),1,Precision,0.5447941888619855
+Hybrid (RF + XGBoost),1,Recall,0.7525083612040134
+Hybrid (RF + XGBoost),1,Specificity,0.7729468599033816
+Hybrid (RF + XGBoost),1,F1,0.6320224719101124
+Hybrid (RF + XGBoost),1,ROC-AUC,0.8399859434831078
+Hybrid (RF + XGBoost),1,PR-AUC,0.6427671704294718
+Hybrid (RF + XGBoost),1,MCC,0.48146236247704616
+Hybrid (RF + XGBoost),1,Cohen's Kappa,0.46840579710144936
+Hybrid (RF + XGBoost),1,Log Loss,0.46575240410475877
+Hybrid (RF + XGBoost),2,Accuracy,0.7551020408163265
+Hybrid (RF + XGBoost),2,Precision,0.5289672544080605
+Hybrid (RF + XGBoost),2,Recall,0.7023411371237458
+Hybrid (RF + XGBoost),2,Specificity,0.7741545893719807
+Hybrid (RF + XGBoost),2,F1,0.603448275862069
+Hybrid (RF + XGBoost),2,ROC-AUC,0.8290052994684375
+Hybrid (RF + XGBoost),2,PR-AUC,0.6277410756328434
+Hybrid (RF + XGBoost),2,MCC,0.44040586006711424
+Hybrid (RF + XGBoost),2,Cohen's Kappa,0.4313346228239846
+Hybrid (RF + XGBoost),2,Log Loss,0.478001168571759
+Hybrid (RF + XGBoost),3,Accuracy,0.7622005323868678
+Hybrid (RF + XGBoost),3,Precision,0.5366430260047281
+Hybrid (RF + XGBoost),3,Recall,0.7591973244147158
+Hybrid (RF + XGBoost),3,Specificity,0.7632850241545893
+Hybrid (RF + XGBoost),3,F1,0.628808864265928
+Hybrid (RF + XGBoost),3,ROC-AUC,0.8464406314122761
+Hybrid (RF + XGBoost),3,PR-AUC,0.6915093604389464
+Hybrid (RF + XGBoost),3,MCC,0.47639354931636774
+Hybrid (RF + XGBoost),3,Cohen's Kappa,0.46136177194421657
+Hybrid (RF + XGBoost),3,Log Loss,0.46190097807962505
+Hybrid (RF + XGBoost),4,Accuracy,0.7755102040816326
+Hybrid (RF + XGBoost),4,Precision,0.5545023696682464
+Hybrid (RF + XGBoost),4,Recall,0.782608695652174
+Hybrid (RF + XGBoost),4,Specificity,0.7729468599033816
+Hybrid (RF + XGBoost),4,F1,0.6490984743411928
+Hybrid (RF + XGBoost),4,ROC-AUC,0.858584573376634
+Hybrid (RF + XGBoost),4,PR-AUC,0.6744457274381993
+Hybrid (RF + XGBoost),4,MCC,0.5067893426639486
+Hybrid (RF + XGBoost),4,Cohen's Kappa,0.49102927289896126
+Hybrid (RF + XGBoost),4,Log Loss,0.4506175648139566
+Hybrid (RF + XGBoost),5,Accuracy,0.7761989342806395
+Hybrid (RF + XGBoost),5,Precision,0.5588972431077694
+Hybrid (RF + XGBoost),5,Recall,0.745819397993311
+Hybrid (RF + XGBoost),5,Specificity,0.7871825876662636
+Hybrid (RF + XGBoost),5,F1,0.6389684813753582
+Hybrid (RF + XGBoost),5,ROC-AUC,0.8537042054733028
+Hybrid (RF + XGBoost),5,PR-AUC,0.6612920892108639
+Hybrid (RF + XGBoost),5,MCC,0.49211150972497636
+Hybrid (RF + XGBoost),5,Cohen's Kappa,0.48158568802914425
+Hybrid (RF + XGBoost),5,Log Loss,0.4444013969400889
