@@ -1,0 +1,8 @@
+{
+  "n_rows": 7043,
+  "n_features": 19,
+  "churn_rate": 0.2653698707936959,
+  "non_churn_rate": 0.7346301292063041,
+  "n_churn": 1869,
+  "n_non_churn": 5174
+}
